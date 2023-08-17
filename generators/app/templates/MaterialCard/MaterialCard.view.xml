@@ -1,0 +1,26 @@
+<mvc:View 
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+    xmlns:f="sap.f"
+    xmlns:form="sap.ui.layout.form"
+    controllerName="<%= nameSpace%>.<%= folder%>.MaterialCard.MaterialCard"
+    displayBlock="true" height="100%" busyIndicatorDelay="0">
+
+    <f:Card height="500px" width="100%">
+        <f:content>
+            <VBox>
+                <form:SimpleForm labelSpanS="4" width="500px" layout="ResponsiveGridLayout">
+                    <Label text="Item" />
+                    <Text text="{/material} / {/version}" class="sapUiSmallMarginBegin"/>
+                    <Label text="Description" />
+                    <Text text="{/description}" class="sapUiSmallMarginBegin" />
+                </form:SimpleForm>
+                <HBox justifyContent="Center" width="40rem">
+                    <Image src="{/image}" width="34rem" class="tempClass" />
+                </HBox>
+            </VBox>
+
+        </f:content>
+       
+    </f:Card>
+</mvc:View>
