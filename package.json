@@ -1,6 +1,6 @@
 {
   "name": "generator-dmc-uicomp-materialcard",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "dmc reusable ui component",
   "files": [
     "generators"
