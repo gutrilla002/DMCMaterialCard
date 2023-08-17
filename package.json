@@ -1,6 +1,6 @@
 {
   "name": "generator-dmc-uicomp-materialcard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dmc reusable ui component",
   "files": [
     "generators"
@@ -11,8 +11,8 @@
   "keywords": [
     "yeoman-generator"
   ],
-  "author": "subrahmanyamPampana",
-  "license": "ISC",
+  "author": "Subrahmanyam Pampana",
+  "license": "Apache-2.0",
   "dependencies": {
     "yeoman-generator": "^5.9.0"
   }

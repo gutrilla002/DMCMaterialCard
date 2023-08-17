@@ -23,6 +23,7 @@ sap.ui.define(
           description: "",
           version: "",
           image: "",
+          additionalData:{}
         },
         onInit: function () {
           BaseController.prototype.onInit.apply(this, arguments);
@@ -51,7 +52,7 @@ sap.ui.define(
             material: "",
             version: "",
             success: function () {},
-            error: function () {},
+            error: function () {}
           }
         ) {
           if (!data.material || !data.version) return;
@@ -66,6 +67,7 @@ sap.ui.define(
                   description: res[0].description,
                   version: data.version,
                   image: imageUrl,
+                  additionalData:res
                 });
                 data.success(controller.pageModel.getData());
               }
