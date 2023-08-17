@@ -1,4 +1,6 @@
 # generator-dmc-uicomp-MaterialCard  
+<img width="800" alt="image" src="https://github.com/subrahmanyam-pampana/generator-dmc-uicomp-MaterialCard/assets/79074273/45181921-e81c-4ebe-925b-80b96615469b">
+
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-dmcpodplugin using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
