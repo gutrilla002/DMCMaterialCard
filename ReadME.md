@@ -1,5 +1,5 @@
 # generator-dmc-uicomp-MaterialCard  
-<img width="800" alt="image" src="https://github.com/subrahmanyam-pampana/generator-dmc-uicomp-MaterialCard/assets/79074273/45181921-e81c-4ebe-925b-80b96615469b">
+<img width="800" alt="image" src="https://github.com/subrahmanyam-pampana/generator-dmc-uicomp-MaterialCard/assets/79074273/a77b3f49-0b46-4cc4-a8e5-dddf328b101a">
 
 ## Installation
 
